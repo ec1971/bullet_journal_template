@@ -16,11 +16,14 @@ useful for:
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/1.png)
   - sample usage
+![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/6.png)
+  - source: https://www.wenjukong.com/forum.php?mod=viewthread&tid=4262
 
 - habit tracker
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/2.png)
   - sample usage
+![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/7.png)
 
 - monthly_calendar
   - template
