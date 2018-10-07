@@ -36,4 +36,5 @@ useful for:
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/5.png)
   - sample usage
+    self-explanatory
 
