@@ -12,18 +12,18 @@ useful for:
 - importing as templates in apps such as GoodNotes
 
 ## content preview & sample usage
-- daily_tracking_grid template
+### daily_tracking_grid template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/1.png)
 
-- habit tracker
+### habit tracker
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/2.png)
 
-- monthly_calendar
+### monthly_calendar
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/3.png)
 
-- weekly_calendar
+### weekly_calendar
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/4.png)
 
-- weekly_calendar_plain(a more office friendly version)
+### weekly_calendar_plain(a more office friendly version)
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/5.png)
 
