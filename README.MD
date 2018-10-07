@@ -11,7 +11,7 @@ useful for:
 - Printing your own paper version planner
 - importing as templates in apps such as GoodNotes
 
-## content preview & sample usage
+## content preview
 - daily_tracking_grid template
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/1.png)
@@ -25,16 +25,15 @@ useful for:
 - monthly_calendar
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/3.png)
-  - sample usage
+  
 
 - weekly_calendar
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/4.png)
-  - sample usage
+  
 
 - weekly_calendar_plain(a more office friendly version)
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/5.png)
-  - sample usage
-    self-explanatory
+  
 
