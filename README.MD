@@ -1,4 +1,4 @@
-### NOTE:NONE OF THE STUFF HERE IS ORIGINAL. I COPIED THE DESIGN FROM THE FOLLOWING SOCIAL MEDIA SITES:
+### NOTE: NONE OF THE STUFF HERE IS ORIGINAL. I COPIED THE DESIGN FROM THE FOLLOWING SOCIAL MEDIA SITES:
 - https://www.zhihu.com/question/36581827/answer/426261280
 - https://www.instagram.com/amandarachdoodles/
 - https://www.instagram.com/bullet.journals/
