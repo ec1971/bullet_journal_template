@@ -1,4 +1,4 @@
-### NOTE:NONE OF THE STUFF HERE IS ORIGINAL. I COPIED THE DESIGN FROM THE FOLLOWING SOCIAL MEDIA SITES:
+### NOTE: NONE OF THE STUFF HERE IS ORIGINAL. I COPIED THE DESIGN FROM THE FOLLOWING SOCIAL MEDIA SITES:
 - https://www.zhihu.com/question/36581827/answer/426261280
 - https://www.instagram.com/amandarachdoodles/
 - https://www.instagram.com/bullet.journals/
@@ -16,11 +16,16 @@ useful for:
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/1.png)
   - sample usage
+  
+![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/6.jpg)
+  - source: https://www.wenjukong.com/forum.php?mod=viewthread&tid=4262
 
 - habit tracker
   - template
 ![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/2.png)
+
   - sample usage
+![alt home](https://github.com/liujingchao0519/bullet_journal_template/blob/master/preview/7.jpg)
 
 - monthly_calendar
   - template
